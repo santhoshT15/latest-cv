@@ -1,0 +1,12 @@
+body{background-color: powderblue;}
+hr{
+  border-style:none;
+  width: 50px;
+  border-top: 5px dotted white;
+  }
+h1{
+  color: #66BFBF;
+  }
+h2{
+  color:  #66BFBF;
+}
